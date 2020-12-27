@@ -1,0 +1,2726 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="770.59711"
+   height="422.125"
+   viewBox="0 0 770.59711 422.125"
+   id="svg4031"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="Periodic_table_zh-hans v40.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="719"
+     id="namedview5075"
+     showgrid="false"
+     inkscape:zoom="1.1044444"
+     inkscape:cx="380.59712"
+     inkscape:cy="218.22678"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4031"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-global="true"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10">
+    <sodipodi:guide
+       orientation="0,1"
+       position="548.25306,132.44869"
+       id="guide5202" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="555.47438,163.79074"
+       id="guide5204" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="635.28122,174.80885"
+       id="guide5206" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="715.59728,178.00964"
+       id="guide5208" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="755.43817,170.34205"
+       id="guide5210" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="515.25909,167.35737"
+       id="guide5280" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="702.09712,86.999998"
+       id="guide5605" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="742.09712,110"
+       id="guide5607" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="704.22231,113.45462"
+       id="guide5609" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="713.59712,128"
+       id="guide5611" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid5613"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="542.09712,143"
+       id="guide4483" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4033">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4035" />
+  <g
+     style="font-size:12px;text-anchor:middle;font-family:sans"
+     id="g4277"
+     transform="translate(-19.402882,-18.875001)">
+    <text
+       x="80.5"
+       y="37.5"
+       id="text4279">1</text>
+    <text
+       x="120.5"
+       y="37.5"
+       id="text4281">2</text>
+    <text
+       x="160.5"
+       y="37.5"
+       id="text4283">3</text>
+    <text
+       x="200.5"
+       y="37.5"
+       id="text4285">4</text>
+    <text
+       x="240.5"
+       y="37.5"
+       id="text4287">5</text>
+    <text
+       x="280.5"
+       y="37.5"
+       id="text4289">6</text>
+    <text
+       x="320.5"
+       y="37.5"
+       id="text4291">7</text>
+    <text
+       x="360.5"
+       y="37.5"
+       id="text4293">8</text>
+    <text
+       x="400.5"
+       y="37.5"
+       id="text4295">9</text>
+    <text
+       x="440.5"
+       y="37.5"
+       id="text4297">10</text>
+    <text
+       x="480.5"
+       y="37.5"
+       id="text4299">11</text>
+    <text
+       x="520.5"
+       y="37.5"
+       id="text4301">12</text>
+    <text
+       x="560.5"
+       y="37.5"
+       id="text4303">13</text>
+    <text
+       x="600.5"
+       y="37.5"
+       id="text4305">14</text>
+    <text
+       x="640.5"
+       y="37.5"
+       id="text4307">15</text>
+    <text
+       x="680.5"
+       y="37.5"
+       id="text4309">16</text>
+    <text
+       x="720.5"
+       y="37.5"
+       id="text4311">17</text>
+    <text
+       x="760.5"
+       y="37.5"
+       id="text4313">18</text>
+    <text
+       x="41.5"
+       y="77.5"
+       id="text4315">1</text>
+    <text
+       x="41.5"
+       y="117.5"
+       id="text4317">2</text>
+    <text
+       x="41.5"
+       y="157.5"
+       id="text4319">3</text>
+    <text
+       x="41.5"
+       y="197.5"
+       id="text4321">4</text>
+    <text
+       x="41.5"
+       y="237.5"
+       id="text4323">5</text>
+    <text
+       x="41.5"
+       y="277.5"
+       id="text4325">6</text>
+    <text
+       x="41.5"
+       y="317.5"
+       id="text4327">7</text>
+    <text
+       x="41.5"
+       y="36.5"
+       style="font-family:Arial"
+       id="text4329">族</text>
+    <text
+       x="44.657524"
+       y="51.5"
+       style="font-family:Arial"
+       id="text4331">周期</text>
+  </g>
+  <path
+     inkscape:connector-curvature="0"
+     d="m 164.09712,371.625 v -36 h 36 v 36 z"
+     style="fill:#ffbfff;stroke:#000000;stroke-width:1"
+     id="path4217" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 204.09712,371.625 v -36 h 36 v 36 z"
+     style="fill:#ffbfff;stroke:#000000;stroke-width:1"
+     id="path4219" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 244.09712,371.625 v -36 h 36 v 36 z"
+     style="fill:#ffbfff;stroke:#000000;stroke-width:1"
+     id="path4221" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 284.09712,371.625 v -36 h 36 v 36 z"
+     style="fill:#ffbfff;stroke:#000000;stroke-width:1"
+     id="path4223" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 324.09712,371.625 v -36 h 36 v 36 z"
+     style="fill:#ffbfff;stroke:#000000;stroke-width:1"
+     id="path4225" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 364.09712,371.625 v -36 h 36 v 36 z"
+     style="fill:#ffbfff;stroke:#000000;stroke-width:1"
+     id="path4227" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 404.09712,371.625 v -36 h 36 v 36 z"
+     style="fill:#ffbfff;stroke:#000000;stroke-width:1"
+     id="path4229" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 444.09712,371.625 v -36 h 36 v 36 z"
+     style="fill:#ffbfff;stroke:#000000;stroke-width:1"
+     id="path4231" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 484.09712,371.625 v -36 h 36 v 36 z"
+     style="fill:#ffbfff;stroke:#000000;stroke-width:1"
+     id="path4233" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 524.09712,371.625 v -36 h 36 v 36 z"
+     style="fill:#ffbfff;stroke:#000000;stroke-width:1"
+     id="path4235" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 564.09712,371.625 v -36 h 36 v 36 z"
+     style="fill:#ffbfff;stroke:#000000;stroke-width:1"
+     id="path4237" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 604.09712,371.625 v -36 h 36 v 36 z"
+     style="fill:#ffbfff;stroke:#000000;stroke-width:1"
+     id="path4239" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 644.09712,371.625 v -36 h 36 v 36 z"
+     style="fill:#ffbfff;stroke:#000000;stroke-width:1"
+     id="path4241" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 684.09712,371.625 v -36 h 36 v 36 z"
+     style="fill:#ffbfff;stroke:#000000;stroke-width:1"
+     id="path4243" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 724.09712,371.625 v -36 h 36 v 36 z"
+     style="fill:#ffbfff;stroke:#000000;stroke-width:1"
+     id="path4245" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 164.09712,411.625 v -36 h 36 v 36 z"
+     style="fill:#ff99cc;stroke:#000000;stroke-width:1"
+     id="path4247" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 204.09712,411.625 v -36 h 36 v 36 z"
+     style="fill:#ff99cc;stroke:#000000;stroke-width:1"
+     id="path4249" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 244.09712,411.625 v -36 h 36 v 36 z"
+     style="fill:#ff99cc;stroke:#000000;stroke-width:1"
+     id="path4251" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 284.09712,411.625 v -36 h 36 v 36 z"
+     style="fill:#ff99cc;stroke:#000000;stroke-width:1"
+     id="path4253" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 324.09712,411.625 v -36 h 36 v 36 z"
+     style="fill:#ff99cc;stroke:#000000;stroke-width:1"
+     id="path4255" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 364.09712,411.625 v -36 h 36 v 36 z"
+     style="fill:#ff99cc;stroke:#000000;stroke-width:1"
+     id="path4257" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 404.09712,411.625 v -36 h 36 v 36 z"
+     style="fill:#ff99cc;stroke:#000000;stroke-width:1"
+     id="path4259" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 444.09712,411.625 v -36 h 36 v 36 z"
+     style="fill:#ff99cc;stroke:#000000;stroke-width:1"
+     id="path4261" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 484.09712,411.625 v -36 h 36 v 36 z"
+     style="fill:#ff99cc;stroke:#000000;stroke-width:1"
+     id="path4263" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 524.09712,411.625 v -36 h 36 v 36 z"
+     style="fill:#ff99cc;stroke:#000000;stroke-width:1"
+     id="path4265" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 564.09712,411.625 v -36 h 36 v 36 z"
+     style="fill:#ff99cc;stroke:#000000;stroke-width:1"
+     id="path4267" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 604.09712,411.625 v -36 h 36 v 36 z"
+     style="fill:#ff99cc;stroke:#000000;stroke-width:1"
+     id="path4269" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 644.09712,411.625 v -36 h 36 v 36 z"
+     style="fill:#ff99cc;stroke:#000000;stroke-width:1"
+     id="path4271" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 684.09712,411.625 v -36 h 36 v 36 z"
+     style="fill:#ff99cc;stroke:#000000;stroke-width:1"
+     id="path4273" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 724.09712,411.625 v -36 h 36 v 36 z"
+     style="fill:#ff99cc;stroke:#000000;stroke-width:1"
+     id="path4275" />
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4447"
+     y="349.625"
+     x="166.59712">57</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4449"
+     y="349.625"
+     x="206.59712">58</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4451"
+     y="349.625"
+     x="246.59712">59</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4453"
+     y="349.625"
+     x="286.59711">60</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4455"
+     y="349.625"
+     x="326.59711">61</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4457"
+     y="349.625"
+     x="366.59711">62</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4459"
+     y="349.625"
+     x="406.59711">63</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4461"
+     y="349.625"
+     x="446.59711">64</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4463"
+     y="349.625"
+     x="486.59711">65</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4465"
+     y="349.625"
+     x="526.59711">66</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4467"
+     y="349.625"
+     x="566.59711">67</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4469"
+     y="349.625"
+     x="606.59711">68</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4471"
+     y="349.625"
+     x="646.59711">69</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4473"
+     y="349.625"
+     x="686.59711">70</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4475"
+     y="349.625"
+     x="726.59711">71</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4511"
+     y="389.625"
+     x="166.59712">89</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4513"
+     y="389.625"
+     x="206.59712">90</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4515"
+     y="389.625"
+     x="246.59712">91</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4517"
+     y="389.625"
+     x="286.59711">92</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4519"
+     y="389.625"
+     x="326.59711">93</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4521"
+     y="389.625"
+     x="366.59711">94</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4523"
+     y="389.625"
+     x="406.59711">95</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4525"
+     y="389.625"
+     x="446.59711">96</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4527"
+     y="389.625"
+     x="486.59711">97</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4529"
+     y="389.625"
+     x="526.59711">98</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4531"
+     y="389.625"
+     x="566.59711">99</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4533"
+     y="389.625"
+     x="604.59711">100</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4535"
+     y="389.625"
+     x="644.59711">101</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4537"
+     y="389.625"
+     x="684.59711">102</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4539"
+     y="389.625"
+     x="724.59711">103</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4741"
+     y="349.625"
+     x="555.59711">Dy</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4743"
+     y="349.625"
+     x="195.59712">La</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4745"
+     y="349.625"
+     x="235.59712">Ce</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4747"
+     y="349.625"
+     x="275.59711">Pr</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4749"
+     y="349.625"
+     x="315.59711">Nd</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4751"
+     y="349.625"
+     x="355.59711">Pm</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4753"
+     y="349.625"
+     x="395.59711">Sm</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4755"
+     y="349.625"
+     x="435.59711">Eu</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4757"
+     y="349.625"
+     x="475.59711">Gd</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4759"
+     y="349.625"
+     x="515.59711">Tb</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4761"
+     y="349.625"
+     x="595.59711">Ho</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4763"
+     y="349.625"
+     x="635.59711">Er</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4765"
+     y="349.625"
+     x="675.59711">Tm</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4767"
+     y="349.625"
+     x="715.59711">Yb</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4769"
+     y="349.625"
+     x="755.59711">Lu</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4771"
+     y="389.625"
+     x="195.59712">Ac</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4773"
+     y="389.625"
+     x="235.59712">Th</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4775"
+     y="389.625"
+     x="275.59711">Pa</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4777"
+     y="389.625"
+     x="315.59711">U</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4779"
+     y="389.625"
+     x="355.59711">Np</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4781"
+     y="389.625"
+     x="395.59711">Pu</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4783"
+     y="389.625"
+     x="435.59711">Am</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4785"
+     y="389.625"
+     x="475.59711">Cm</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4787"
+     y="389.625"
+     x="515.59711">Bk</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4789"
+     y="389.625"
+     x="555.59711">Cf</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4791"
+     y="389.625"
+     x="595.59711">Es</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4793"
+     y="389.625"
+     x="637.59711">Fm</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4795"
+     y="389.625"
+     x="677.59711">Md</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4797"
+     y="389.625"
+     x="717.59711">No</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4799"
+     y="389.625"
+     x="757.59711">Lr</text>
+  <text
+     style="font-size:12px;text-anchor:middle;font-family:Arial"
+     id="text5005"
+     y="364.125"
+     x="182.59712">镧</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5007"
+     y="364.125"
+     x="222.59712">铈</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5009"
+     y="364.125"
+     x="262.59711">镨</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5011"
+     y="364.125"
+     x="302.59711">钕</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5013"
+     y="364.125"
+     x="342.59711">钷</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5015"
+     y="364.125"
+     x="382.59711">钐</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5017"
+     y="364.125"
+     x="422.59711">铕</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5019"
+     y="364.125"
+     x="462.59711">钆</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5021"
+     y="364.125"
+     x="502.59711">铽</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5023"
+     y="364.125"
+     x="542.59711">镝</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5025"
+     y="364.125"
+     x="582.59711">钬</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5027"
+     y="364.125"
+     x="622.59711">铒</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5029"
+     y="364.125"
+     x="662.59711">铥</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5031"
+     y="364.125"
+     x="702.59711">镱</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5033"
+     y="364.125"
+     x="742.59711">镥</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5035"
+     y="404.125"
+     x="182.59712">锕</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5037"
+     y="404.125"
+     x="222.59712">钍</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5039"
+     y="404.125"
+     x="262.59711">镤</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5041"
+     y="404.125"
+     x="302.59711">铀</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5043"
+     y="404.125"
+     x="342.59711">镎</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5045"
+     y="404.125"
+     x="382.59711">钚</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5047"
+     y="404.125"
+     x="422.59711">镅</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5049"
+     y="404.125"
+     x="462.59711">锔</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5051"
+     y="404.125"
+     x="502.59711">锫</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5053"
+     y="404.125"
+     x="542.59711">锎</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5055"
+     y="404.125"
+     x="582.59711">锿</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5057"
+     y="404.125"
+     x="622.59711">镄</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5059"
+     y="404.125"
+     x="662.59711">钔</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5061"
+     y="404.125"
+     x="702.59711">锘</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text5063"
+     y="404.125"
+     x="742.59711">铹</text>
+  <g
+     transform="translate(-19.902882,-75.375001)"
+     style="font-size:14px;text-anchor:end;font-family:sans"
+     id="g5065">
+    <text
+       x="169"
+       y="434"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       id="text5067">镧系元素</text>
+    <text
+       x="169"
+       y="472"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       id="text5069">锕系元素</text>
+  </g>
+  <path
+     d="m 11,21.611929 h 1 v 10 h -2 l 2.5,4 2.5,-4 h -2 v -10"
+     style="fill:#000000"
+     id="path5071"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 32.097118,13.124999 v 1 h 10 v -2 l 4,2.5 -4,2.5 v -2 h -10"
+     style="fill:#000000"
+     id="path5073"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 124.09712,315.625 v -36 h 36 v 36 z"
+     style="fill:#ff99cc;stroke:#000000;stroke-width:0"
+     id="path4037" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 124.09712,275.625 v -36 h 36 v 36 z"
+     style="fill:#ffbfff;stroke:#000000;stroke-width:0"
+     id="path4039" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 84.097118,315.625 v -36 h 36.000002 v 36 z"
+     style="fill:#ffdead;stroke:#000000;stroke-width:1"
+     id="path4041" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 164.09712,315.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4043" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 204.09712,315.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4045" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 244.09712,315.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4047" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 284.09712,315.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4049" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 324.09712,315.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4051" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 364.09712,315.625 v -36 h 36 v 36 z"
+     style="fill:#e8e8e8;fill-opacity:1;stroke:#000000;stroke-width:1"
+     id="path4053" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 404.09712,315.625 v -36 h 36 v 36 z"
+     style="fill:#e8e8e8;fill-opacity:1;stroke:#000000;stroke-width:1"
+     id="path4055" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 444.09712,315.625 v -36 h 36 v 36 z"
+     style="fill:#e8e8e8;fill-opacity:1;stroke:#000000;stroke-width:1"
+     id="path4057" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 484.09712,315.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4059" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 524.09712,315.625 v -36 h 36 v 36 z"
+     style="fill:#e8e8e8;fill-opacity:1;stroke:#000000;stroke-width:1"
+     id="path4061" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 564.09712,315.625 v -36 h 36 v 36 z"
+     style="fill:#cccccc;stroke:#000000;stroke-width:1"
+     id="path4063" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 604.09712,315.625 v -36 h 36 v 36 z"
+     style="fill:#e8e8e8;fill-opacity:1;stroke:#000000;stroke-width:1"
+     id="path4065" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 644.09712,315.625 v -36 h 36 v 36 z"
+     style="fill:#e8e8e8;fill-opacity:1;stroke:#000000;stroke-width:1"
+     id="path4067" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 684.09712,315.625 v -36 h 36 v 36 z"
+     style="fill:#e8e8e8;fill-opacity:1;stroke:#000000;stroke-width:1"
+     id="path4069" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 724.09712,315.625 v -36 h 36 v 36 z"
+     style="fill:#e8e8e8;fill-opacity:1;stroke:#000000;stroke-width:1"
+     id="path4071" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 44.097118,315.625 v -36 h 36 v 36 z"
+     style="fill:#ff6666;stroke:#000000;stroke-width:1"
+     id="path4073" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 84.097118,275.625 v -36 h 36.000002 v 36 z"
+     style="fill:#ffdead;stroke:#000000;stroke-width:1"
+     id="path4075" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 164.09712,275.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4077" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 204.09712,275.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4079" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 244.09712,275.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4081" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 284.09712,275.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4083" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 324.09712,275.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4085" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 364.09712,275.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4087" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 404.09712,275.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4089" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 444.09712,275.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4091" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 484.09712,275.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4093" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 524.09712,275.625 v -36 h 36 v 36 z"
+     style="fill:#cccccc;stroke:#000000;stroke-width:1"
+     id="path4095" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 564.09712,275.625 v -36 h 36 v 36 z"
+     style="fill:#cccccc;stroke:#000000;stroke-width:1"
+     id="path4097" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 604.09712,275.625 v -36 h 36 v 36 z"
+     style="fill:#cccccc;stroke:#000000;stroke-width:1"
+     id="path4099" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 644.09712,275.625 v -36 h 36 v 36 z"
+     style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1"
+     id="path4101" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 684.09712,275.625 v -36 h 36 v 36 z"
+     style="fill:#cccc99;fill-opacity:1;stroke:#000000;stroke-width:1"
+     id="path4103" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 724.09712,275.625 v -36 h 36 v 36 z"
+     style="fill:#c0ffff;stroke:#000000;stroke-width:1"
+     id="path4105" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 44.097118,275.625 v -36 h 36 v 36 z"
+     style="fill:#ff6666;stroke:#000000;stroke-width:1"
+     id="path4107" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 84.097118,235.625 v -36 h 36.000002 v 36 z"
+     style="fill:#ffdead;stroke:#000000;stroke-width:1"
+     id="path4109" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 124.09712,235.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4111" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 164.09712,235.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4113" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 204.09712,235.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4115" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 244.09712,235.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4117" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 284.09712,235.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4119" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 324.09712,235.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4121" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 364.09712,235.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4123" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 404.09712,235.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4125" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 444.09712,235.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4127" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 484.09712,235.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4129" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 524.09712,235.625 v -36 h 36 v 36 z"
+     style="fill:#cccccc;stroke:#000000;stroke-width:1"
+     id="path4131" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 564.09712,235.625 v -36 h 36 v 36 z"
+     style="fill:#cccccc;stroke:#000000;stroke-width:1"
+     id="path4133" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 604.09712,235.625 v -36 h 36 v 36 z"
+     style="fill:#cccc99;stroke:#000000;stroke-width:1"
+     id="path4135" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 644.09712,235.625 v -36 h 36 v 36 z"
+     style="fill:#cccc99;stroke:#000000;stroke-width:1"
+     id="path4137" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 684.09712,235.625 v -36 h 36 v 36 z"
+     style="fill:#e7ff8f;stroke:#000000;stroke-width:1"
+     id="path4139" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 724.09712,235.625 v -36 h 36 v 36 z"
+     style="fill:#c0ffff;stroke:#000000;stroke-width:1"
+     id="path4141" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 44.097118,235.625 v -36 h 36 v 36 z"
+     style="fill:#ff6666;stroke:#000000;stroke-width:1"
+     id="path4143" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 84.097118,195.625 v -36 h 36.000002 v 36 z"
+     style="fill:#ffdead;stroke:#000000;stroke-width:1"
+     id="path4145" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 124.09712,195.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4147" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 164.09712,195.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4149" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 204.09712,195.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4151" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 244.09712,195.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4153" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 284.09712,195.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4155" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 324.09712,195.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4157" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 364.09712,195.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4159" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 404.09712,195.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4161" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 444.09712,195.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4163" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 484.09712,195.625 v -36 h 36 v 36 z"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1"
+     id="path4165" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 524.09712,195.625 v -36 h 36 v 36 z"
+     style="fill:#cccccc;stroke:#000000;stroke-width:1"
+     id="path4167" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 564.09712,195.625 v -36 h 36 v 36 z"
+     style="fill:#cccc99;stroke:#000000;stroke-width:1"
+     id="path4169" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 604.09712,195.625 v -36 h 36 v 36 z"
+     style="fill:#cccc99;stroke:#000000;stroke-width:1"
+     id="path4171" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 644.09712,195.625 v -36 h 36 v 36 z"
+     style="fill:#a1ffc3;stroke:#000000;stroke-width:1"
+     id="path4173" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 684.09712,195.625 v -36 h 36 v 36 z"
+     style="fill:#e7ff8f;stroke:#000000;stroke-width:1"
+     id="path4175" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 724.09712,195.625 v -36 h 36 v 36 z"
+     style="fill:#c0ffff;stroke:#000000;stroke-width:1"
+     id="path4177" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 44.097118,195.625 v -36 h 36 v 36 z"
+     style="fill:#ff6666;stroke:#000000;stroke-width:1"
+     id="path4179" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 84.097118,155.625 v -36 h 36.000002 v 36 z"
+     style="fill:#ffdead;stroke:#000000;stroke-width:1"
+     id="path4181" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 44.097118,155.625 v -36 h 36 v 36 z"
+     style="fill:#ff6666;stroke:#000000;stroke-width:1"
+     id="path4183" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 84.097118,115.625 V 79.624999 H 120.09712 V 115.625 z"
+     style="fill:#ffdead;stroke:#000000;stroke-width:1"
+     id="path4185" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 44.097118,115.625 V 79.624999 h 36 V 115.625 z"
+     style="fill:#ff6666;stroke:#000000;stroke-width:1"
+     id="path4187" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 44.097118,75.624999 v -36 h 36 v 36 z"
+     style="fill:#e7ff8f;fill-opacity:1;stroke:#000000;stroke-width:1"
+     id="path4189" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 524.09712,155.625 v -36 h 36 v 36 z"
+     style="fill:#cccccc;stroke:#000000;stroke-width:1"
+     id="path4191" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 564.09712,155.625 v -36 h 36 v 36 z"
+     style="fill:#cccc99;stroke:#000000;stroke-width:1"
+     id="path4193" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 604.09712,155.625 v -36 h 36 v 36 z"
+     style="fill:#a1ffc3;stroke:#000000;stroke-width:1"
+     id="path4195" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 644.09712,155.625 v -36 h 36 v 36 z"
+     style="fill:#a1ffc3;stroke:#000000;stroke-width:1"
+     id="path4197" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 684.09712,155.625 v -36 h 36 v 36 z"
+     style="fill:#e7ff8f;stroke:#000000;stroke-width:1"
+     id="path4199" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 724.09712,155.625 v -36 h 36 v 36 z"
+     style="fill:#c0ffff;stroke:#000000;stroke-width:1"
+     id="path4201" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 524.09712,115.625 V 79.624999 h 36 V 115.625 z"
+     style="fill:#cccc99;stroke:#000000;stroke-width:1"
+     id="path4203" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 564.09712,115.625 V 79.624999 h 36 V 115.625 z"
+     style="fill:#a1ffc3;stroke:#000000;stroke-width:1"
+     id="path4205" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 604.09712,115.625 V 79.624999 h 36 V 115.625 z"
+     style="fill:#e7ff8f;fill-opacity:1;stroke:#000000;stroke-width:1"
+     id="path4207" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 644.09712,115.625 V 79.624999 h 36 V 115.625 z"
+     style="fill:#e7ff8f;fill-opacity:1;stroke:#000000;stroke-width:1"
+     id="path4209" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 684.09712,115.625 V 79.624999 h 36 V 115.625 z"
+     style="fill:#e7ff8f;stroke:#000000;stroke-width:1"
+     id="path4211" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 724.09712,115.625 V 79.624999 h 36 V 115.625 z"
+     style="fill:#c0ffff;stroke:#000000;stroke-width:1"
+     id="path4213" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 724.09712,75.624999 v -36 h 36 v 36 z"
+     style="fill:#c0ffff;stroke:#000000;stroke-width:1"
+     id="path4215" />
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4335"
+     y="53.625"
+     x="46.597118">1</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4337"
+     y="53.625"
+     x="726.59711">2</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4339"
+     y="93.625"
+     x="46.597118">3</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4341"
+     y="93.625"
+     x="86.597115">4</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4343"
+     y="93.625"
+     x="526.59711">5</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4345"
+     y="93.625"
+     x="566.59711">6</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4347"
+     y="93.625"
+     x="606.59711">7</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4349"
+     y="93.625"
+     x="646.59711">8</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4351"
+     y="93.625"
+     x="686.59711">9</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4353"
+     y="93.625"
+     x="726.59711">10</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4355"
+     y="133.625"
+     x="46.597118">11</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4357"
+     y="133.625"
+     x="86.597115">12</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4359"
+     y="133.625"
+     x="526.59711">13</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4361"
+     y="133.625"
+     x="566.59711">14</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4363"
+     y="133.625"
+     x="606.59711">15</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4365"
+     y="133.625"
+     x="646.59711">16</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4367"
+     y="133.625"
+     x="686.59711">17</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4369"
+     y="133.625"
+     x="726.59711">18</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4371"
+     y="173.625"
+     x="46.597118">19</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4373"
+     y="173.625"
+     x="86.597115">20</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4375"
+     y="173.625"
+     x="126.59711">21</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4377"
+     y="173.625"
+     x="166.59712">22</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4379"
+     y="173.625"
+     x="206.59712">23</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4381"
+     y="173.625"
+     x="246.59712">24</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4383"
+     y="173.625"
+     x="286.59711">25</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4385"
+     y="173.625"
+     x="326.59711">26</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4387"
+     y="173.625"
+     x="366.59711">27</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4389"
+     y="173.625"
+     x="406.59711">28</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4391"
+     y="173.625"
+     x="446.59711">29</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4393"
+     y="173.625"
+     x="486.59711">30</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4395"
+     y="173.625"
+     x="526.59711">31</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4397"
+     y="173.625"
+     x="566.59711">32</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4399"
+     y="173.625"
+     x="606.59711">33</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4401"
+     y="173.625"
+     x="646.59711">34</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4403"
+     y="173.625"
+     x="686.59711">35</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4405"
+     y="173.625"
+     x="726.59711">36</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4407"
+     y="213.625"
+     x="46.597118">37</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4409"
+     y="213.625"
+     x="86.597115">38</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4411"
+     y="213.625"
+     x="126.59711">39</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4413"
+     y="213.625"
+     x="166.59712">40</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4415"
+     y="213.625"
+     x="206.59712">41</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4417"
+     y="213.625"
+     x="246.59712">42</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4419"
+     y="213.625"
+     x="286.59711">43</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4421"
+     y="213.625"
+     x="326.59711">44</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4423"
+     y="213.625"
+     x="366.59711">45</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4425"
+     y="213.625"
+     x="406.59711">46</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4427"
+     y="213.625"
+     x="446.59711">47</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4429"
+     y="213.625"
+     x="486.59711">48</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4431"
+     y="213.625"
+     x="526.59711">49</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4433"
+     y="213.625"
+     x="566.59711">50</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4435"
+     y="213.625"
+     x="606.59711">51</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4437"
+     y="213.625"
+     x="646.59711">52</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4439"
+     y="213.625"
+     x="686.59711">53</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4441"
+     y="213.625"
+     x="726.59711">54</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4443"
+     y="253.625"
+     x="46.597118">55</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4445"
+     y="253.625"
+     x="86.597115">56</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4477"
+     y="253.625"
+     x="166.59712">72</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4479"
+     y="253.625"
+     x="206.59712">73</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4481"
+     y="253.625"
+     x="246.59712">74</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4483"
+     y="253.625"
+     x="286.59711">75</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4485"
+     y="253.625"
+     x="326.59711">76</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4487"
+     y="253.625"
+     x="366.59711">77</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4489"
+     y="253.625"
+     x="406.59711">78</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4491"
+     y="253.625"
+     x="446.59711">79</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4493"
+     y="253.625"
+     x="486.59711">80</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4495"
+     y="253.625"
+     x="526.59711">81</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4497"
+     y="253.625"
+     x="566.59711">82</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4499"
+     y="253.625"
+     x="606.59711">83</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4501"
+     y="253.625"
+     x="646.59711">84</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4503"
+     y="253.625"
+     x="686.59711">85</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4505"
+     y="253.625"
+     x="726.59711">86</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4507"
+     y="293.625"
+     x="46.597118">87</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4509"
+     y="293.625"
+     x="86.597115">88</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4541"
+     y="293.625"
+     x="164.59712">104</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4543"
+     y="293.625"
+     x="204.59712">105</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4545"
+     y="293.625"
+     x="244.59712">106</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4547"
+     y="293.625"
+     x="284.59711">107</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4549"
+     y="293.625"
+     x="324.59711">108</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4551"
+     y="293.625"
+     x="364.59711">109</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4553"
+     y="293.625"
+     x="404.59711">110</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4555"
+     y="293.625"
+     x="444.59711">111</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4557"
+     y="293.625"
+     x="484.59711">112</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4559"
+     y="293.625"
+     x="525.16431">113</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4561"
+     y="293.625"
+     x="566.59711">114</text>
+  <text
+     style="font-size:10.86426067px;text-anchor:start;font-family:Times"
+     id="text4563"
+     y="289.90518"
+     x="612.12909"
+     transform="scale(0.98766007,1.0124941)">115</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4565"
+     y="293.625"
+     x="646.59711">116</text>
+  <text
+     style="font-size:11px;text-anchor:start;font-family:Times"
+     id="text4567"
+     y="293.625"
+     x="685.4248">117</text>
+  <text
+     style="font-size:10.840168px;text-anchor:start;font-family:Times"
+     id="text4569"
+     y="289.26227"
+     x="735.95819"
+     transform="scale(0.98546983,1.0147444)">118</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4573"
+     y="53.625"
+     x="75.597115">H</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4575"
+     y="53.625"
+     x="755.59711">He</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4577"
+     y="93.625"
+     x="75.597115">Li</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4579"
+     y="93.625"
+     x="115.59711">Be</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4581"
+     y="93.625"
+     x="555.59711">B</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4583"
+     y="93.625"
+     x="595.59711">C</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4585"
+     y="93.625"
+     x="635.59711">N</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4587"
+     y="93.625"
+     x="675.59711">O</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4589"
+     y="93.625"
+     x="715.59711">F</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4591"
+     y="93.625"
+     x="755.59711">Ne</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4593"
+     y="133.625"
+     x="75.597115">Na</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4595"
+     y="133.625"
+     x="115.59711">Mg</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4597"
+     y="133.625"
+     x="555.59711">Al</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4599"
+     y="133.625"
+     x="595.59711">Si</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4601"
+     y="133.625"
+     x="635.59711">P</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4603"
+     y="133.625"
+     x="675.59711">S</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4605"
+     y="133.625"
+     x="715.59711">Cl</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4607"
+     y="133.625"
+     x="755.59711">Ar</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4609"
+     y="173.625"
+     x="115.59711">Ca</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4611"
+     y="173.625"
+     x="155.59712">Sc</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4613"
+     y="173.625"
+     x="195.59712">Ti</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4615"
+     y="173.625"
+     x="235.59712">V</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4617"
+     y="173.625"
+     x="275.59711">Cr</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4619"
+     y="173.625"
+     x="315.59711">Mn</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4621"
+     y="173.625"
+     x="355.59711">Fe</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4623"
+     y="173.625"
+     x="395.59711">Co</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4625"
+     y="173.625"
+     x="435.59711">Ni</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4627"
+     y="173.625"
+     x="475.59711">Cu</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4629"
+     y="173.625"
+     x="515.59711">Zn</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4631"
+     y="173.625"
+     x="75.597115">K</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4633"
+     y="173.625"
+     x="555.59711">Ga</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4635"
+     y="173.625"
+     x="595.59711">Ge</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4637"
+     y="173.625"
+     x="635.59711">As</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4639"
+     y="173.625"
+     x="675.59711">Se</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4641"
+     y="173.625"
+     x="715.59711">Br</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4643"
+     y="173.625"
+     x="755.59711">Kr</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4645"
+     y="213.625"
+     x="75.597115">Rb</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4647"
+     y="213.625"
+     x="115.59711">Sr</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4649"
+     y="213.625"
+     x="155.59712">Y</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4651"
+     y="213.625"
+     x="195.59712">Zr</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4653"
+     y="213.625"
+     x="235.59712">Nb</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4655"
+     y="213.625"
+     x="275.59711">Mo</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4657"
+     y="213.625"
+     x="315.59711">Tc</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4659"
+     y="213.625"
+     x="355.59711">Ru</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4661"
+     y="213.625"
+     x="395.59711">Rh</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4663"
+     y="213.625"
+     x="435.59711">Pd</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4665"
+     y="213.625"
+     x="475.59711">Ag</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4667"
+     y="213.625"
+     x="515.59711">Cd</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4669"
+     y="213.625"
+     x="555.59711">In</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4671"
+     y="213.625"
+     x="595.59711">Sn</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4673"
+     y="213.625"
+     x="635.59711">Sb</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4675"
+     y="213.625"
+     x="675.59711">Te</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4677"
+     y="213.625"
+     x="715.59711">I</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4679"
+     y="213.625"
+     x="755.59711">Xe</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4681"
+     y="253.625"
+     x="115.59711">Ba</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4683"
+     y="253.625"
+     x="195.59712">Hf</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4685"
+     y="253.625"
+     x="235.59712">Ta</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4687"
+     y="253.625"
+     x="275.59711">W</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4689"
+     y="253.625"
+     x="315.59711">Re</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4691"
+     y="253.625"
+     x="355.59711">Os</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4693"
+     y="253.625"
+     x="395.59711">Ir</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4695"
+     y="253.625"
+     x="435.59711">Pt</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4697"
+     y="253.625"
+     x="475.59711">Au</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4699"
+     y="253.625"
+     x="515.59711">Hg</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4701"
+     y="253.625"
+     x="555.59711">Tl</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4703"
+     y="253.625"
+     x="595.59711">Pb</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4705"
+     y="253.625"
+     x="635.59711">Bi</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4707"
+     y="253.625"
+     x="675.59711">Po</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4709"
+     y="253.625"
+     x="715.59711">At</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4711"
+     y="253.625"
+     x="755.59711">Rn</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4713"
+     y="253.625"
+     x="75.597115">Cs</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4715"
+     y="293.625"
+     x="275.59711">Sg</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4717"
+     y="293.625"
+     x="475.59711">Rg</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4719"
+     y="293.625"
+     x="115.59711">Ra</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4721"
+     y="293.625"
+     x="195.59712">Rf</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4723"
+     y="293.625"
+     x="237.59712">Db</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4725"
+     y="293.625"
+     x="317.59711">Bh</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4727"
+     y="293.625"
+     x="357.59711">Hs</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4729"
+     y="293.625"
+     x="397.59711">Mt</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4731"
+     y="293.625"
+     x="437.59711">Ds</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4735"
+     y="293.625"
+     x="597.59711">Fl</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4737"
+     y="293.69141"
+     x="677.85492">Lv</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4739"
+     y="293.625"
+     x="75.597115">Fr</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4803"
+     y="68.125"
+     x="62.597118">氢</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4805"
+     y="68.125"
+     x="742.59711">氦</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4807"
+     y="108.125"
+     x="62.597118">锂</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4809"
+     y="108.125"
+     x="102.59711">铍</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4811"
+     y="108.125"
+     x="542.59711">硼</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4813"
+     y="108.125"
+     x="582.59711">碳</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4815"
+     y="108.125"
+     x="622.59711">氮</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4817"
+     y="108.125"
+     x="662.59711">氧</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4819"
+     y="108.125"
+     x="702.59711">氟</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4821"
+     y="108.125"
+     x="742.59711">氖</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4823"
+     y="148.125"
+     x="62.597118">钠</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4825"
+     y="148.125"
+     x="102.59711">镁</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4827"
+     y="148.125"
+     x="542.59711">铝</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4829"
+     y="148.125"
+     x="582.59711">硅</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4831"
+     y="148.125"
+     x="622.59711">磷</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4833"
+     y="148.125"
+     x="662.59711">硫</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4835"
+     y="148.125"
+     x="702.59711">氯</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4837"
+     y="148.125"
+     x="742.59711">氩</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4839"
+     y="188.125"
+     x="62.597118">钾</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4841"
+     y="188.125"
+     x="102.59711">钙</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4843"
+     y="188.125"
+     x="142.59712">钪</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4845"
+     y="188.125"
+     x="182.59712">钛</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4847"
+     y="188.125"
+     x="222.59712">钒</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4849"
+     y="188.125"
+     x="262.59711">铬</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4851"
+     y="188.125"
+     x="302.59711">锰</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4853"
+     y="188.125"
+     x="342.59711">铁</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4855"
+     y="188.125"
+     x="382.59711">钴</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4857"
+     y="188.125"
+     x="422.59711">镍</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4859"
+     y="188.125"
+     x="462.59711">铜</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4861"
+     y="188.125"
+     x="502.59711">锌</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4863"
+     y="188.125"
+     x="542.59711">镓</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4865"
+     y="188.125"
+     x="582.59711">锗</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4867"
+     y="188.125"
+     x="622.59711">砷</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4869"
+     y="188.125"
+     x="662.59711">硒</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4871"
+     y="188.125"
+     x="702.59711">溴</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4873"
+     y="188.125"
+     x="742.59711">氪</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4875"
+     y="228.125"
+     x="62.597118">铷</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4877"
+     y="228.125"
+     x="102.59711">锶</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4879"
+     y="228.125"
+     x="142.59712">钇</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4881"
+     y="228.125"
+     x="182.59712">锆</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4883"
+     y="228.125"
+     x="222.59712">铌</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4885"
+     y="228.125"
+     x="262.59711">钼</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4887"
+     y="228.125"
+     x="302.59711">锝</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4889"
+     y="228.125"
+     x="342.59711">钌</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4891"
+     y="228.125"
+     x="382.59711">铑</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4893"
+     y="228.125"
+     x="422.59711">钯</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4895"
+     y="228.125"
+     x="462.59711">银</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4897"
+     y="228.125"
+     x="502.59711">镉</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4899"
+     y="228.125"
+     x="542.59711">铟</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4901"
+     y="228.125"
+     x="582.59711">锡</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4903"
+     y="228.125"
+     x="622.59711">锑</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4905"
+     y="228.125"
+     x="662.59711">碲</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4907"
+     y="228.125"
+     x="702.59711">碘</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4909"
+     y="228.125"
+     x="742.59711">氙</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4911"
+     y="268.125"
+     x="62.597118">铯</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4913"
+     y="268.125"
+     x="102.59711">钡</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4915"
+     y="268.125"
+     x="142.59712">镧系</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4917"
+     y="268.125"
+     x="182.59712">铪</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4919"
+     y="268.125"
+     x="222.59712">钽</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4921"
+     y="268.125"
+     x="262.59711">钨</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4923"
+     y="268.125"
+     x="302.59711">铼</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4925"
+     y="268.125"
+     x="342.59711">锇</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4927"
+     y="268.125"
+     x="382.59711">铱</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4929"
+     y="268.125"
+     x="422.59711">铂</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4931"
+     y="268.125"
+     x="462.59711">金</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4933"
+     y="268.125"
+     x="502.59711">汞</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4935"
+     y="268.125"
+     x="542.59711">铊</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4937"
+     y="268.125"
+     x="582.59711">铅</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4939"
+     y="268.125"
+     x="622.59711">铋</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4941"
+     y="268.125"
+     x="662.59711">钋</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4943"
+     y="268.125"
+     x="702.59711">砹</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4945"
+     y="268.125"
+     x="742.59711">氡</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4947"
+     y="308.125"
+     x="62.597118">钫</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4949"
+     y="308.125"
+     x="102.59711">镭</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4951"
+     y="308.125"
+     x="142.59712">锕系</text>
+  <text
+     id="text4953"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="214.03786">钅</text>
+  <text
+     id="text4955"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="220.36029">卢</text>
+  <text
+     id="text4957"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="261.84698">钅</text>
+  <text
+     id="text4959"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="268.07278">杜</text>
+  <text
+     id="text4961"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="309.65613">钅</text>
+  <text
+     id="text4963"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="315.82031">喜</text>
+  <text
+     id="text4965"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="357.47928">钅</text>
+  <text
+     id="text4967"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="363.7807">波</text>
+  <text
+     id="text4969"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="405.28842">钅</text>
+  <text
+     id="text4971"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="411.4722">黑</text>
+  <text
+     id="text4973"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="453.09756">钅</text>
+  <text
+     id="text4975"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="459.34998">麦</text>
+  <text
+     id="text4977"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="500.89273">钅</text>
+  <text
+     id="text4979"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="506.76132">达</text>
+  <text
+     id="text4981"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="548.99603">钅</text>
+  <text
+     id="text4983"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="554.82404">仑</text>
+  <text
+     id="text4985"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="596.74915">钅</text>
+  <text
+     id="text4987"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="602.67517">哥</text>
+  <text
+     id="text4991"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="691.80914">钅</text>
+  <text
+     id="text4993"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="697.73517">夫</text>
+  <text
+     style="font-size:14px;text-anchor:middle;font-family:Arial"
+     id="text4995"
+     y="308.125"
+     x="622.59711">镆</text>
+  <text
+     id="text4997"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="786.80914">钅</text>
+  <text
+     id="text4999"
+     style="font-size:10px;text-anchor:middle;font-family:Arial"
+     transform="scale(0.83666003,1.1952286)"
+     y="257.79587"
+     x="792.73517">立</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4733"
+     y="293.54263"
+     x="556.9729">Nh</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4733-1"
+     y="293.4082"
+     x="716.22601">Ts</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4733-7"
+     y="293.4082"
+     x="637.0307">Mc</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4733-4"
+     y="293.55322"
+     x="756.92474">Og</text>
+  <text
+     style="font-size:11px;text-anchor:end;font-family:Times"
+     id="text4733-0"
+     y="293.51306"
+     x="515.34717">Cn</text>
+  <g
+     id="g5567"
+     style="fill:#000000"
+     transform="matrix(0.07809137,0,0,0.07809137,692.68646,296.36272)">
+    <path
+       id="path5569"
+       d="m 90.3,181.9 0,-155 11,5.5 71.3,0 6,-5 11,9 -5,4 0,130 -12,6 0,-12 -71.3,0 0,12 z M 31,175 l 0,-71 -1.3,2.1 -5.8,8.8 -6.4,8.4 -6.8,8.2 -1.5,-1.1 5.2,-9.2 4.9,-9.1 4.7,-9.2 4.3,-9.2 4,-9.3 3.7,-9.4 3.3,-9.4 3,-9.6 2.6,-9.7 1.4,-6.3 -31.3,0 0,-4 51,0 10,-10 12,10 0,4 -29.4,0 -2.8,9.4 -3.3,9.9 -3.8,9.8 -4.1,9.5 -3.1,6.4 25,0 5.5,-5 10.5,9 -5,3.5 0,70.5 -11,5.5 0,-11.5 -23.5,0 0,12 z m 70.3,-14.6 29.9,0 0,-61 -29.9,0 z m 41.9,0 29.4,0 0,-61 -29.4,0 z M 43,153 l 23.5,0 0,-64 -23.5,0 z m 58.3,-57.6 29.9,0 0,-59 -29.9,0 z m 41.9,0 29.4,0 0,-59 -29.4,0 z"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g5593"
+     style="fill:#000000"
+     transform="matrix(0.06127177,0,0,0.06127177,735.91088,298.9917)">
+    <path
+       id="path5595"
+       d="m 172.3,183.7 -6.7,-6.1 -5.5,-7.9 -4.6,-9.8 -3.6,-11.4 -2.9,-13.3 -2.1,-15 -1.3,-16.9 -0.7,-18.8 0.1,-18.5 -67.4,0 5.2,4.8 1,3.4 -4.6,-0.7 -1.6,1.1 -1.9,1.3 -2.1,1.3 -2.2,1.3 -2.3,1.4 -2.4,1.4 -0.8,0.4 52,0 6,-5 11,9 -5,4 0,53.3 -11.8,5.9 21.1,0 4.5,-6 6,6 0,4 -62.9,0 2.3,1.7 4.9,3.3 5,3.2 5.3,2.8 5.6,2.6 5.9,2.3 6.2,2 6.6,1.7 6.9,1.5 7.3,1.2 9.5,1.7 -11.8,11.2 -7.8,-1.9 -7.4,-2.3 -7,-2.7 -6.5,-3 -6.2,-3.4 -5.6,-3.8 -5.2,-4.1 -4.6,-4.5 -4.1,-4.9 -2.9,-4.6 -2.9,0 -0.8,1.3 -5.1,6.4 -6.1,5.7 -7,5.1 -7.9,4.4 -8.8,3.7 -9.6,3.2 -10.6,2.4 -11.4,1.6 -0.4,-1.7 10.9,-3.6 9.7,-3.8 8.8,-4.1 7.7,-4.4 6.7,-4.7 5.7,-5 4.6,-5.3 0.8,-1.2 -56.3,0 0,-4 19.8,0 0,-73.2 12,6 18.7,0 0.9,-0.9 1.5,-2.4 1.6,-2.2 1.4,-2.2 1.4,-2.1 2.4,-3.8 1,-1.8 0.2,-0.3 -46.1,0 0,-4 119,0 6,-5 11,9 -5,3 -0.1,0 0,15.3 0.6,18.3 1.4,16.3 2,14.3 2.6,12.2 3.3,10.2 3.7,8.2 4.2,6 2.4,2.3 4.9,-21.1 2,0 -1.9,24.4 1.7,0.9 3.5,3 0.3,4.5 -3,3.5 -4.5,0.3 z m -54.4,-98 -74.9,0 0,57.3 -11.8,5.9 39,0 0.3,-0.5 2.8,-5.9 1.9,-6.3 0.5,-1.7 11.1,4.9 2.3,2.8 -3.8,1 -1.6,3.9 -1.1,1.8 35.3,0 z m -16.7,44.6 -2,-2 -2.2,-2 -2.3,-2 -2.4,-1.9 -2.6,-1.9 -2.7,-1.9 -0.5,-0.4 0,10.1 -12,6 0,-14.3 -2.6,2.9 -3.1,3.2 -3.4,2.9 -3.5,2.8 -3.8,2.5 -4,2.3 -4.2,2 -4.4,1.8 -0.9,-1.5 3.4,-3.1 3.2,-3.1 3,-3.1 2.8,-3.1 2.6,-3.2 2.4,-3.2 2.2,-3.2 2,-3.3 1,-2 -20.6,0 0,-4 16,0 -3.3,-2.6 -0.3,-1.2 -0.4,-1.4 -0.6,-1.4 -0.7,-1.4 -0.9,-1.5 -1,-1.5 -1.2,-1.6 -1.3,-1.6 -1.5,-1.7 -1.8,-1.2 0.8,-1.6 2.1,0.9 2.3,0.5 2.2,0.7 2.1,0.7 2,0.9 1.9,1.1 1.8,1.1 1.7,1.3 1.7,1.4 1.5,1.6 0.5,4.5 -2.7,3.7 -2.8,0.3 9.8,0 0,-20.7 12,2 3,2 -3,1.8 0,14.9 0.8,0 0.9,-1.1 1.6,-2.6 1.5,-2.5 1.4,-2.4 1.4,-2.2 1.2,-2.2 1.2,-2 2.3,-4.6 -0.2,-0.1 1.1,-1.4 9.1,7.9 1.1,3.4 -4.6,-0.6 -1.7,1.5 -2,1.5 -2.1,1.5 -2.1,1.6 -2.4,1.6 -2.4,1.7 -1.7,1 5.2,0 8.2,-9 10,9 0,4 -27.8,0 0,2.7 2.2,0.4 3.4,0.8 3.3,1 3.2,1.2 3,1.3 3,1.4 2.9,1.6 2.7,1.7 2.7,1.8 1.9,4.2 -1.6,4.3 -4.1,1.8 -4.3,-1.5 z M 45.6,12.1 l 10.3,6.3 1.9,3.1 -4,0.4 -0.2,0.4 -2.7,4.1 -2.6,3.6 114.5,0 8.2,-9 10,9 0,4 -135.7,0 -0.9,1.2 -3.9,4.7 -4.2,5 -4.7,5.1 -5.2,5.4 -5.6,5.5 -6.2,5.6 -1.3,-1.1 4.6,-6.9 4.4,-6.5 4.1,-6 3.8,-5.7 3.5,-5.4 3,-5 2.7,-4.7 2.3,-4.3 1.9,-4 z M 160,37 l 10,9 0,4 -126,0 0,-4 107.8,0 z"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="matrix(0.06881528,0,0,0.06881528,535.16398,295.66429)"
+     style="fill:#000000"
+     id="g4479">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 129.6,67 12,2 3,2 -3,1.8 0,100.2 -0.1,2.5 -0.4,2.5 -0.8,2.4 -1.3,2.3 -1.6,2 -2,1.6 -2.3,1.3 -2.4,0.8 -2.5,0.4 -2.6,0.2 0,-6 -20,-3 0,-3 20,0 1.3,-0.1 0.9,-0.2 0.9,-0.3 0.2,-0.2 0.1,-0.2 0.2,-0.3 0.2,-0.6 0.2,-0.9 z m -86.2,-54.6 10.8,5.5 2.1,2.9 -3.6,0.7 -1.4,3.3 -3,7.2 -3.3,7.4 -1.7,3.6 21.2,0 10,-10 12,10 0,4 -45.1,0 0,0.1 -3.7,8 -4,8.2 -4.3,8.4 -0.7,1.3 32.4,0 10,-10 12,10 0,4 -26.6,0 0,34 8.8,0 10,-10 12,10 0,4 -30.8,0 0,42.8 3.1,-2.4 3.6,-2.7 3.7,-2.8 3.8,-2.9 4,-2.9 8.6,-5.8 1.3,1.3 -3.3,4.2 -3.1,4 -3.2,3.8 -3.1,3.6 -3.1,3.5 -3,3.4 -5.8,6.4 -2.7,3 -2.7,2.9 -0.2,-0.3 -5.9,5.9 -10,-10 6,-6 0,-49 -29,0 0,-4 29,0 0,-34 -17.8,0 -1.8,3.4 -5,8.9 -5.3,9 -1.6,-0.7 3.5,-9.9 3.5,-9.5 3.4,-9.1 3.3,-8.8 3.2,-8.5 2.9,-8.2 2.8,-7.9 2.6,-7.6 2.5,-7.2 2.2,-7 z m 62.4,87.4 11.3,4.5 2.4,2.7 -3.6,1.1 -1,3.1 -2.4,6.8 -2.7,6.7 -3.1,6.5 -3.3,6.3 -3.7,6.2 -4,6.1 -4.3,5.8 -4.8,5.6 -5.1,5.3 -1.4,-1.1 3.4,-6.4 3.4,-6.3 3.2,-6.3 2.9,-6.2 2.7,-6.4 2.5,-6.3 2.2,-6.4 1.9,-6.5 1.7,-6.5 1.4,-6.6 z m 67.4,52.4 -1.7,-6.2 -1.9,-6.1 -2,-5.9 -2.3,-5.7 -2.5,-5.6 -2.6,-5.4 -2.8,-5.4 -6,-10.6 1.4,-1.2 4.7,4.2 4.3,4.6 4,4.9 3.7,5.2 3.4,5.5 3.2,5.7 2.9,6 2.7,6.2 2.4,6.5 2.2,6.6 -0.7,4.6 -3.6,2.8 -4.6,-0.7 -2.7,-3.7 z m -58.1,-137.5 11.2,4.7 2.4,2.7 -3.6,1.1 -1.8,5.9 -3.3,9.3 -3.5,8.9 -3.8,8.4 -0.1,0.3 58.9,0 0.5,-0.5 0.5,-0.9 0.4,0.3 4.6,-3.9 11,9 -5,3 -4,1.7 -0.8,0.9 -2.1,2.4 -2.3,2.6 -2.3,2.8 -2.6,2.9 -2.6,3.1 -2.9,3.2 -3.1,3.3 -3,3.5 -1.5,-0.9 2,-4.3 1.8,-4.1 1.8,-3.9 1.8,-3.7 1.7,-3.5 1.6,-3.2 1.5,-3.1 1.3,-2.7 -59.2,0 -1.9,3.8 -4.3,7.5 -4.5,7.1 -4.9,6.6 -5.2,6.1 -5.5,5.4 -1.4,-1.1 3.9,-6.6 3.7,-6.7 3.7,-7 3.5,-7.3 3.4,-7.7 3.1,-8 2.9,-8.3 2.8,-8.8 2.5,-9.1 2.1,-8.5 -0.1,0 z"
+       id="path4481" />
+  </g>
+</svg>
